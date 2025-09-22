@@ -1,0 +1,13 @@
+﻿1.
+
+C# keretrendszere a .Net, 
+
+
+2.
+
+
+3.
+
+public
+protected
+private
